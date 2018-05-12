@@ -1,4 +1,8 @@
 _repo: Historia-de-las-Indias-2-de-5_50351
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50351-h/images/cover.jpg
 creator:
   author:
     agent_name: Casas, Bartolomé de las
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9232
     wikipedia: http://en.wikipedia.org/wiki/Bartolom%C3%A9_de_Las_Casas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50351#Historia-de-las-Indias-2-de-5
 gutenberg_issued: '2015-10-31'
 gutenberg_type: Text
 identifiers:
